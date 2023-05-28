@@ -1,2 +1,3 @@
-# checking_trading_robots
-Statistical model checking to verify trading robots using FIX protocol
+# Statistical model checking for trading robots
+
+
